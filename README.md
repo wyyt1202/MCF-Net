@@ -111,7 +111,7 @@ The module initiates by partitioning the original features into two parts along 
 | MCF-Net-Prune4      | LAMP       | 2.5      | 67.0      | 36.2      | 3.3        | 8.1    |
 
 ## DataSet
-The FD6052 dataset of this study is open-sourced at https://www.kaggle.com/datasets/wyyt1202/fd6052.
+The FD6052 dataset of this study is open-sourced at https://www.kaggle.com/datasets/wyyt1202/fd6052. doi: 10.5281/zenodo.14838738
 
 TianChi dataset can be downloaded from https://tianchi.aliyun.com/dataset/79336.
 
