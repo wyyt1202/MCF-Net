@@ -3,7 +3,7 @@
 This repository is a PyTorch implementation of our paper: Enhancing Multi-Scale Fabric Defect Detection with MCF-Net: A Context Fusion Approach.
 
 ## DataSet
-The FD6052 dataset of this study is open-sourced at https://www.kaggle.com/datasets/wyyt1202/fd6052.
+The FD6052 dataset of this study is open-sourced at https://doi.org/10.5281/zenodo.14838738.
 
 TianChi dataset can be downloaded from https://tianchi.aliyun.com/dataset/79336.
 
