@@ -26,7 +26,7 @@ pip install -r requirements.txt  # install
 </details>
 
 <details open>
-<summary>Train with train.py</summary>
+<summary>Train</summary>
   
 Training with `train.py` and saving results to `runs/train`.
 
@@ -40,7 +40,7 @@ Multi-GPU DDP
 </details>
 
 <details open>
-<summary>Validate with val.py</summary>
+<summary>Val</summary>
 
 `val.py` runs on a validation set and saving results to `runs/val`.
 ```
@@ -49,7 +49,7 @@ python val.py --weights MCF-Net.pt --img 640 --batch 32 --data ../datasets/fabri
 </details>
 
 <details open>
-<summary>Inference with detect.py</summary>
+<summary>Inference</summary>
 
 `detect.py` runs inference on a variety of sources and saving results to `runs/detect`.
 ```
